@@ -7,6 +7,9 @@ title: Adel Abdallah # Website name
 baseurl: 'https://example.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+backend:
+  name: git-gateway
+
 ############################
 ## LANGUAGE
 ############################
